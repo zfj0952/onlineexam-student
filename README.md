@@ -56,122 +56,18 @@
 **在线考试系统学生端:** http://maweitao.top/onlineexam-student
 
 ## 6. 部分演示截图
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/student-home.jpg" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>学生端首页</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/student-wrong.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>学生端错题页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/student-search.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-		<em>学生端搜索页面</em>
-	</p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/student-profile.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>学生端个人中心页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/student-profile.jpg" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>学生端消息列表页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/paper-list.jpg" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷列表页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/paper-detail.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷详情页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/single-question.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷单选题页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/multiple-question.jpg" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷多选题页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/judge-question.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷判断题页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/fill-question.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷填空题页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/answer-card.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷答题卡页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/answer-card.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>试卷答题卡页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/score-report.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>成绩报告页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/wrong-question.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>错题题目页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/wrong-card.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>错题卡页面</em>
-  </p>
-</p>
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/collect-question.png" alt="Sample"  width="250" height="500">
-	<p align="center">
-    <em>收藏题目页面</em>
-  </p>
-</p>
+![tafMm6.png](https://s1.ax1x.com/2020/06/03/tafMm6.png)
+![tahIqP.png](https://s1.ax1x.com/2020/06/03/tahIqP.png)
+![tahHIS.png](https://s1.ax1x.com/2020/06/03/tahHIS.png)
+![ta4ao8.png](https://s1.ax1x.com/2020/06/03/ta4ao8.png)
+![ta47O1.png](https://s1.ax1x.com/2020/06/03/ta47O1.png)
+![taIJVP.png](https://s1.ax1x.com/2020/06/03/taIJVP.png)
+![taIyV0.png](https://s1.ax1x.com/2020/06/03/taIyV0.png)
+![taI2PU.png](https://s1.ax1x.com/2020/06/03/taI2PU.png)
+![taI5rR.png](https://s1.ax1x.com/2020/06/03/taI5rR.png)
+![taIHIK.png](https://s1.ax1x.com/2020/06/03/taIHIK.png)
+![taoZss.png](https://s1.ax1x.com/2020/06/03/taoZss.png)
+![taoKoV.png](https://s1.ax1x.com/2020/06/03/taoKoV.png)
+![tao1WF.png](https://s1.ax1x.com/2020/06/03/tao1WF.png)
+![taosQH.png](https://s1.ax1x.com/2020/06/03/taosQH.png)
+![taobmn.png](https://s1.ax1x.com/2020/06/03/taobmn.png)
